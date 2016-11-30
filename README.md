@@ -11,6 +11,6 @@ Give a set of forged and genuine signature images determines if a signature is g
 
 ## Model used ##
 
-Linear SVM 
-Precision ~ 0.92
+Linear SVM <br>
+Precision ~ 0.92<br>
 Recall - 1.0
