@@ -1,0 +1,8 @@
+opencv-contrib-python==3.4.2.16
+imagehash
+opencv-python==3.4.2.16
+Pillow
+sklearn
+numpy
+pylab
+pickle
