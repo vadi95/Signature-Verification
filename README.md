@@ -23,7 +23,7 @@ Install docker - https://docs.docker.com/install/ <br>
 `docker build -t signature-verification .` <br>
 `docker run signature-verification` <br>
 
-#### Python virtual env
+#### Python virtual env (python 2.7)
 
 `pip install -r requirements.txt`  <br>
 `python run.py`
