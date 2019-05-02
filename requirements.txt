@@ -1,0 +1,8 @@
+opencv_python==3.4.2.16
+matplotlib==2.0.2
+scipy==0.19.1
+numpy==1.15.3
+Pillow==6.0.0
+imagehash==4.0
+scikit_learn==0.20.3
+opencv-contrib-python==3.4.2.16
