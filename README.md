@@ -14,3 +14,16 @@ Give a set of forged and genuine signature images determines if a signature is g
 Linear SVM <br>
 Precision ~ 0.92<br>
 Recall - 1.0
+
+## Run ##
+
+#### Docker
+
+Install docker - https://docs.docker.com/install/ <br>
+`docker build -t signature-verification .` <br>
+`docker run signature-verification` <br>
+
+#### Python virtual env
+
+`pip install -r requirements.txt`  <br>
+`python run.py`
