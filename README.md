@@ -1,6 +1,6 @@
 # Signature-Verification
 
-Give a set of forged and genuine signature images determines if a signature is genuine or forged.
+Given a set of forged and genuine signature images of a person, trains a model to determine if a new signature of the same person is genuine or forged.
 <br><br>
 ## Features Used ##
 * SIFT<br>
